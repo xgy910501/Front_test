@@ -1,0 +1,72 @@
+/*info.css*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+div#div1 {
+    height: 600px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url("../image/beijing1.jpg");
+}
+
+div#div2 {
+    float: right;
+    margin: 50px;
+    padding-left: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Arial Black",serif;
+}
+
+h5 {
+    margin-left: 80px;
+    font-style: italic;
+}
+
+table {
+    width: 700px;
+    margin: 50px;
+}
+
+.hobbies {
+    height: 150px;
+}
+
+td {
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: darkblue;
+}
+
+a:visited {
+    color: orangered ;
+}
+
+a:hover {
+    color: darkviolet;
+}
+
+.zt {
+    font-style: italic;
+}
+
+textarea {
+    margin-left: 50px;
+    background-color: inherit;
+    max-width: 900px;
+    max-height: 180px;
+    min-width: 900px;
+    min-height: 180px;
+}
